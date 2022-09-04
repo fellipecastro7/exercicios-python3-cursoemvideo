@@ -1,3 +1,3 @@
 # Exercícios de Python3 do Curso em Vídeo
 
-Mundo 1 ao Mundo 3
+Exercícios do mundo 1 ao mundo 3
